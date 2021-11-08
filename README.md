@@ -1,5 +1,10 @@
-# Yolo-V5-using-Roboflow
-Identifying the crop diseased leaves using YoloV5(object detection)
+## Yolo-V5-using-Roboflow
+
+**Yolo** is a regression based algorithm. Its full form - You Only Look Once.
+
+This Algorithm divides objects into grid cells wherein each cell is in the grid is responsible for detecting the objects within it. This algorithm is famous for its speed and accuracy.
+
+In this following project we are identifying the crop diseased leaves using YoloV5(object detection)
 
 Here we load the labelled images using the link of roboflow. Roboflow makes the image conversions, rotations easy so that we can train our model effeciently.
 
