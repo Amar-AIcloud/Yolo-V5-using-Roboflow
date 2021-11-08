@@ -9,6 +9,7 @@ This Algorithm divides objects into grid cells wherein each cell is in the grid 
 In this following project we are identifying the crop diseased leaves using YoloV5(object detection)
 
 Here we load the labelled images using the link of roboflow. Roboflow makes the image conversions, rotations easy so that we can train our model effeciently.
+![alt tag](https://user-images.githubusercontent.com/78682995/140685749-fd3a1d0c-8de2-4dc4-99e0-05ee8fe8c4ed.png)
 
 After loading the data(images) it creates images folder and validation folder.
 Images folder has train and test data
