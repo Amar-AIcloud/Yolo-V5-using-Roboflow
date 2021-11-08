@@ -4,7 +4,7 @@
 
 This Algorithm divides objects into grid cells wherein each cell is in the grid is responsible for detecting the objects within it. This algorithm is famous for its speed and accuracy.
 
-https://user-images.githubusercontent.com/78682995/140685404-58d2b220-881e-48f7-a48a-f1eb0d6f0e1d.png
+![alt tag](https://user-images.githubusercontent.com/78682995/140685404-58d2b220-881e-48f7-a48a-f1eb0d6f0e1d.png)
 
 In this following project we are identifying the crop diseased leaves using YoloV5(object detection)
 
